@@ -90,7 +90,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "modified": "2020-10-20T01:07:28.817Z",
     "publishChangesOnly": true,
-    "google-analytics": "\n<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\n\n<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PVG6X4Z&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n\n",
+    "google-analytics": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-PVG6X4Z&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
     "canonical-url": false
   },
   "pages": {
