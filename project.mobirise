@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "frameless-showers.html",
     "theme": {
       "name": "interioramp",
       "title": "InteriorAMP",
@@ -2128,7 +2128,7 @@
         }
       ]
     },
-    "page4.html": {
+    "frameless-showers.html": {
       "settings": {
         "title": "Frameless Showers",
         "order": 1
